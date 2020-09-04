@@ -1,4 +1,4 @@
-# Network-Sampling-Research
+# Network Sampling Research
 ### Introduction
 During high school, I worked with an associate professor of applied mathematics to conduct independent research on network sampling methods and analysis. I was looking to get hands-on experience with applied math or computer science research, and I wrote python scripts to run tests comparing sampling methods on a dataset from the Stanford Network Analysis Project (SNAP).
 
